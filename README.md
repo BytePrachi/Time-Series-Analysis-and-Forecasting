@@ -1,1 +1,1 @@
-# Time-Series-Analysis-and-Forecasting
+Conducted an in-depth analysis of user engagement with Medium posts utilizing sophisticated forecasting models, including ARIMA, SARIMA, ETS, and Prophet. Derived insights into future trends, empowering strategic content planning to optimize publication timing for maximum audience attention and impact.
